@@ -13,4 +13,5 @@ dist-ssr
 *.local
 venv
 node_modules
-__pycache__
+__pycache____pycache__
+.env
